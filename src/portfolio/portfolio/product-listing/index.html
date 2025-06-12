@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Shop with Poojitha</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>🛍️ Shop with Poojitha</h1>
+    <div class="controls">
+      <select id="categoryFilter">
+        <option value="All">All Categories</option>
+        <option value="electronics">Electronics</option>
+        <option value="books">Books</option>
+        <option value="fashion">Fashion</option>
+      </select>
+
+      <select id="sortFilter">
+        <option value="low">Price: Low to High</option>
+        <option value="high">Price: High to Low</option>
+        <option value="rating">Rating</option>
+      </select>
+    </div>
+
+    <div id="productList" class="product-list"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

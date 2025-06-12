@@ -1,0 +1,9 @@
+[
+  { "name": "Notebook", "category": "books", "price": 120, "rating": 4.2 },
+  { "name": "Fiction Book", "category": "books", "price": 300, "rating": 4.8 },
+  { "name": "Sunglasses", "category": "fashion", "price": 899, "rating": 4.1 },
+  { "name": "Dress", "category": "fashion", "price": 1199, "rating": 4.5 },
+  { "name": "Wireless Earbuds", "category": "electronics", "price": 1999, "rating": 4.2 },
+  { "name": "Smart Watch", "category": "electronics", "price": 3499, "rating": 4.3 },
+  { "name": "Laptop", "category": "electronics", "price": 49999, "rating": 4.6 }
+]
